@@ -1,0 +1,12 @@
+{
+  "hello" : "Hey, I am your chat bot",
+  "hi": "Hi, I am your chat bot,  how can I help u?",
+  "hey": "Hey, I am your chat bot, how can I help u?",
+  "how to create profile": "Click on Profile->Click on add button at the bottom right->Enter all the Details->Save",
+  "how to edit profile": "Click on Profile->Click on the three dots at the top right ->Click on Edit Student ->Enter a correct addmission number for the respective ->Save Changes",
+  "how to search profile":"Click on the Profile ->Enter admission number ->Find",
+  "how to create notes" : "Click on the Notes ->Click on the add button at the bottom right ->Add respective details -> Save ",
+  "how to schedule lecture" :"Click on the Scheduler -> Click on the add button at the bottom right -> Select and fill respective details - > Save",
+  "how to take attendance" : "Click on Attendance - > Enter the time and subject of the class -> Select div and take the attendence -> Save",
+  "how to clear data": "Click on the three dots at the top right - > Select Settings ->Select respective data to be cleared"
+}
